@@ -1,0 +1,9 @@
+# Hello-ta.Rmd
+
+Hello, network!
+
+```{r}
+library(tidyverse)
+library(igraph)
+```
+
